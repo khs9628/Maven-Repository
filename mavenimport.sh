@@ -14,7 +14,7 @@
 # 	esac
 # done
 
-REPO_URL="http://10.105.1.193:38081/repository/comet2020-releases/"
+REPO_URL="http://${ip}/repository/${repo}/"
 USERNAME="admin"
 PASSWORD="qwer1234"
 
